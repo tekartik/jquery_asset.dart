@@ -1,5 +1,5 @@
 name: tekartik_jquery_asset
-version: 0.0.1
+version: 2.1.4
 author: alex@tekartik.com
 description: jquery for dart
 dependencies:
