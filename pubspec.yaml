@@ -2,7 +2,10 @@ name: tekartik_jquery_asset
 version: 3.1.1+1
 author: alex@tekartik.com
 description: jquery asset for dart
+publish_to: none
 environment:
   sdk: '>=2.10.0-0 <3.0.0'
 # dependencies:
 #  browser: any
+dev_dependencies:
+  dev_test:
