@@ -3,6 +3,6 @@ version: 3.1.1+1
 author: alex@tekartik.com
 description: jquery asset for dart
 environment:
-  sdk: '>=2.0.0-dev.63 <3.0.0'
+  sdk: '>=2.10.0-0 <3.0.0'
 # dependencies:
 #  browser: any
