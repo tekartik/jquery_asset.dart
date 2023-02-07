@@ -1,4 +1,12 @@
-tekartik_jquery_asset.dart
-==========================
+# tekartik_jquery_asset.dart
 
-JQuery assets for dart
+## Setup
+
+In `pubspec.yaml`:
+```yaml
+dependencies:
+  tekartik_jquery_asset:
+    git:
+      url: https://github.com/tekartik/jquery_asset.dart
+      ref: dart2_3
+```
