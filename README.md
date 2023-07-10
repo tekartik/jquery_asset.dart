@@ -8,5 +8,5 @@ dependencies:
   tekartik_jquery_asset:
     git:
       url: https://github.com/tekartik/jquery_asset.dart
-      ref: dart2_3
+      ref: dart3a
 ```
