@@ -8,7 +8,7 @@ environment:
 # dependencies:
 #  browser: any
 dev_dependencies:
-  dev_test:
+  dev_build:
   lints:
   tekartik_lints:
     git:
