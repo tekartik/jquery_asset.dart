@@ -4,12 +4,12 @@ version: 3.1.1+1
 description: jquery asset for dart
 publish_to: none
 environment:
-  sdk: ^3.5.0
+  sdk: ^3.7.0
 # dependencies:
 #  browser: any
 dev_dependencies:
-  dev_build:
-  lints:
+  dev_build: ">=1.1.2"
+  lints: ">=5.0.0"
   tekartik_lints:
     git:
       url: https://github.com/tekartik/common.dart
